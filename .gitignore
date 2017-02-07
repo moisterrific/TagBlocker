@@ -1,5 +1,5 @@
 ## Ignore Local Files
 *.exe
-/Properties/
-/obj/
-/bin/
+*/Properties/*
+*/obj/*
+*/bin/*
