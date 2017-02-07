@@ -1,5 +1,5 @@
 ## Ignore Local Files
 *.exe
-Chat Tag Blocker v2\Chat Tag Blocker v2/Properties
-Chat Tag Blocker v2\Chat Tag Blocker v2/obj
-Chat Tag Blocker v2\Chat Tag Blocker v2/bin
+/Properties/
+/obj/
+/bin/
