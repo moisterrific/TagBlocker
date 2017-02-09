@@ -30,11 +30,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Mono.Data.Sqlite, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\tshock_4.3.22\ServerPlugins\Mono.Data.Sqlite.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\..\tshock_4.3.22\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\tshock_4.3.22\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="OTAPI">
-      <HintPath>..\..\..\..\..\tshock_4.3.22\OTAPI.dll</HintPath>
+      <HintPath>..\..\..\..\tshock_4.3.22\OTAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,10 +49,10 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\..\..\..\tshock_4.3.22\TerrariaServer.exe</HintPath>
+      <HintPath>..\..\..\..\tshock_4.3.22\TerrariaServer.exe</HintPath>
     </Reference>
     <Reference Include="TShockAPI">
-      <HintPath>..\..\..\..\..\tshock_4.3.22\ServerPlugins\TShockAPI.dll</HintPath>
+      <HintPath>..\..\..\..\tshock_4.3.22\ServerPlugins\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
