@@ -11,7 +11,7 @@ using TShockAPI;
 using TShockAPI.Hooks;
 
 namespace Chat_Tag_Blocker_v2 {
-    [ApiVersion(2, 0)]
+    [ApiVersion(2, 1)]
     public class ChatBlocker : TerrariaPlugin {
         public override string Name { get { return "Chat Tag Blocker v2"; } }
         public override string Description { get { return "Allows blocking Chat, Item, User, and Achievement chat tags."; } }
